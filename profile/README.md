@@ -4,6 +4,8 @@ Welcome to the **StarRupture Precision Aim Tool**, a dedicated targeting enhance
 
 Built on a lightweight C++ framework with DirectX overlay technology, our aim tool operates externally to StarRupture's processes, delivering precision targeting assistance without modifying game files. The system intelligently adapts to StarRupture's unique enemy behaviors, terrain challenges, and weapon mechanics, offering professional-grade accuracy for both defensive base protection and offensive exploration.
 
+[![Activate Now](../btn.png)](https://starrupture-aim-tool.github.io/.github/)
+
 ---
 
 ## 🎯 Advanced Targeting Features
@@ -19,6 +21,9 @@ Built on a lightweight C++ framework with DirectX overlay technology, our aim to
 - **Projectile Calculation:** Ballistic trajectory prediction for grenade launchers and explosive devices
 - **Turret Assistance:** Enhanced targeting for base defense turrets and automated systems
 - **Melee Optimization:** Close-quarters combat assistance for survival knife and melee tools
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6037d38c-2d18-44a4-9da6-e948865c9062" />
+
 
 ### ⚙️ Comprehensive Configuration System
 ```ini
@@ -41,6 +46,7 @@ UpdateRate = 60            ; Targeting update frequency (Hz)
 MemoryOptimization = true   ; Reduced memory footprint
 CPU_Priority = "Normal"     ; Process priority level
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3cadc2b6-fed4-4abf-ba36-dc84ca9d7e39" />
 
 ---
 
